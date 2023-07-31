@@ -8,7 +8,7 @@ public class applemain {
 		int b=20;
 		int c=a+b;
 		System.out.println(c);
-		System.out.println("cloneed and updated");
+		System.out.println("version2 edit in git");
 
 	}
 
