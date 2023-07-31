@@ -9,7 +9,7 @@ public class applemain {
 		int c=a+b;
 		System.out.println(c);
 		System.out.println("version2 edit in git");
-
+System.out.println("edit after pull in eclipse");
 	}
 
 }
